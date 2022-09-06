@@ -1,0 +1,16 @@
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\bin\Debug\netcoreapp3.1\Random number Generator.exe
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\bin\Debug\netcoreapp3.1\Random number Generator.deps.json
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\bin\Debug\netcoreapp3.1\Random number Generator.runtimeconfig.json
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\bin\Debug\netcoreapp3.1\Random number Generator.runtimeconfig.dev.json
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\bin\Debug\netcoreapp3.1\Random number Generator.dll
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\bin\Debug\netcoreapp3.1\Random number Generator.pdb
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.csproj.AssemblyReference.cache
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.AssemblyInfoInputs.cache
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.AssemblyInfo.cs
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.csproj.CoreCompileInputs.cache
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.dll
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.pdb
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.genruntimeconfig.cache
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\alek_\source\repos\Random number Generator\Random number Generator\obj\Debug\netcoreapp3.1\Random number Generator.csproj.CopyComplete
